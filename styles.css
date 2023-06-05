@@ -1,0 +1,40 @@
+h1 {
+    font-family: "Brush Script MT", "Courier New", fantasy;
+    margin: 0px 0px 50px 0px;
+}
+
+li {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+    margin: 15px 0px;
+}
+
+ul {
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.container {
+    background-color: rgba(154, 205, 50, .5);
+    margin: auto;
+    padding: 15px 10px;
+    width: 600px;
+    text-align: center;
+}
